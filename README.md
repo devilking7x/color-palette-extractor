@@ -17,7 +17,7 @@ Color Palette Extractor samples an image in your browser and returns five domina
 ## Getting started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/color-palette-extractor.git
+git clone https://github.com/devilking7x/color-palette-extractor.git
 cd color-palette-extractor
 pnpm install
 pnpm dev
@@ -43,3 +43,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md). Accessibility, better color clustering,
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Demo
+
+Try the live app: https://devilking7x.github.io/color-palette-extractor/
