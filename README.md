@@ -1,5 +1,7 @@
 # Color Palette Extractor
 
+[![Live demo](https://devilking7x.github.io/color-palette-extractor/badge.svg)](https://devilking7x.github.io/color-palette-extractor/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > Turn pixels into a useful palette.
 
 Color Palette Extractor samples an image in your browser and returns five dominant colors as hex values. Copy individual colors or export a ready-to-use CSS custom-properties file.
@@ -47,3 +49,23 @@ MIT — see [LICENSE](LICENSE).
 ## Demo
 
 Try the live app: https://devilking7x.github.io/color-palette-extractor/
+
+## Who it is for
+
+This project is designed for **designers and frontend teams**. Its narrow first release focuses on helping them extract reusable color palettes from local images. The interface uses realistic synthetic fixtures so the value is understandable without connecting a production account.
+
+## Privacy and safety
+
+The default experience is local-first: inputs are processed in the browser or in the user's own development environment, with no required account, API key, payment flow, or remote storage. Fixtures contain synthetic data only. Review a fork's hosting and analytics configuration before using it with sensitive information.
+
+## Validation
+
+The release workflow is intentionally reproducible. Run `pnpm install --frozen-lockfile`, `pnpm check`, and `pnpm build` before submitting a change. Manual review should cover keyboard operation, visible focus, mobile layout, empty states, and both successful and error paths.
+
+## Limitations
+
+This is a focused open-source MVP rather than a hosted replacement for a production system. It does not guarantee business, legal, financial, medical, accessibility, or security compliance by itself. Validate outputs against the context in which you plan to use them.
+
+## License
+
+Released under the [MIT License](LICENSE).
