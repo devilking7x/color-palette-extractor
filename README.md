@@ -69,3 +69,8 @@ This is a focused open-source MVP rather than a hosted replacement for a product
 ## License
 
 Released under the [MIT License](LICENSE).
+
+
+## Live demo
+
+Open **[Color Palette Extractor in the browser](https://devilking7x.github.io/color-palette-extractor/)**. The default deployment uses GitHub Pages and does not require a custom domain.
