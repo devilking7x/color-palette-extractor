@@ -46,10 +46,6 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md). Accessibility, better color clustering,
 
 MIT — see [LICENSE](LICENSE).
 
-## Demo
-
-Try the live app: https://devilking7x.github.io/color-palette-extractor/
-
 ## Who it is for
 
 This project is designed for **designers and frontend teams**. Its narrow first release focuses on helping them extract reusable color palettes from local images. The interface uses realistic synthetic fixtures so the value is understandable without connecting a production account.
