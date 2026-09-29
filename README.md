@@ -1,6 +1,6 @@
 # Color Palette Extractor
 
-[![Live demo](https://devilking7x.github.io/color-palette-extractor/badge.svg)](https://devilking7x.github.io/color-palette-extractor/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Live demo](https://img.shields.io/badge/Live%20demo-GitHub%20Pages-gold.svg)](https://devilking7x.github.io/color-palette-extractor/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > Turn pixels into a useful palette.
 
